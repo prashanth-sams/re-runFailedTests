@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="none">
+   <test name="Test on FF">
+  <!-- <parameter name="test-title"  value="chrome with video"/> -->  
+   <classes> 
+      <class name="abilash.AppTest" />   
+    </classes>
+  </test> 
+   
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="none">
+  <test name="Test on FF(failed)" parallel="none">
+    <classes>
+      <class name="abilash.AppTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="test01"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- abilash.AppTest -->
+    </classes>
+  </test> <!-- Test on FF(failed) -->
+</suite> <!-- Failed suite [Suite] -->
